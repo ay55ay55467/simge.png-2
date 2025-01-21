@@ -1,4 +1,4 @@
-# simge.png-2 
+# simge.png-2
 <!DOCTYPE html>
 <html lang="tr">
 <head>
